@@ -1,11 +1,16 @@
 _repo: L-Ameublement-de-l-H-tel-de-Pitsembourg-au-milieu-du-XVIIe-si-cleCommunication-faite-en-s-anc__11586
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: D'Awans, Robert
     gutenberg_agent_id: '4039'
     url: http://www.gutenberg.org/2009/agents/4039
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11586#L-Ameublement-de-l-H-tel-de-Pitsembourg-au-milieu-du-XVIIe-si-cleCommunication-faite-en-s-anc_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
